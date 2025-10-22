@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/stitch.ts": {
+      "maxDuration": 60
+    }
+  }
+}

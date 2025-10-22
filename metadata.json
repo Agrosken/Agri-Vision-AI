@@ -1,0 +1,5 @@
+{
+  "name": "Agri-Vision: Drone Crop Analysis",
+  "description": "An AI-powered tool to analyze drone imagery for agriculture. Upload top-down georeferenced photos of crops, and the application will simulate an orthophoto map, analyze plant health, detect weeds, and generate a comprehensive report with actionable insights.",
+  "requestFramePermissions": []
+}
